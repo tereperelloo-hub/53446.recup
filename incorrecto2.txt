@@ -1,7 +1,5 @@
 juego Aventura {
     escena Intro {
-        mostrar "Hola";
+        mostrar Hola;
     }
 }
-
-

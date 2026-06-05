@@ -1,0 +1,8 @@
+juego JuegoPrueba {
+    escena Inicio {
+        mostrar "Bienvenido";
+    }
+    escena Final {
+        mostrar "Fin del juego";
+    }
+}
