@@ -1,4 +1,4 @@
-juego Aventura {
+juego Aventura 
     escena Intro {
         mostrar "Hola";
     }

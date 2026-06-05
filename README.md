@@ -46,7 +46,7 @@ cd 53446.recup-main
 Y luego: 
 npm start 
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 ·Si al ejecutar npm install o npm start aparece un error, verificar que:
 
@@ -74,9 +74,9 @@ incorrecto2.txt
 
 Para probarlos, copiar el contenido de alguno de estos archivos dentro de input.txt y luego ejecutar el programa.
 
-En este caso elegí el ejemplo correcto. Deberia verse algo como: 
+En este caso elegí el ejemplo incorrecto1. Deberia verse algo como: 
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 # Funcionalidades
 
