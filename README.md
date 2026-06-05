@@ -7,13 +7,19 @@ El lenguaje permite definir juegos con escenas y acciones como mostrar mensajes.
 
 Instalación
 1. Clonar el repositorio
-2. Ejecutar:
+2. Para Ejecutar, hay dos opciones, la primera:
 
 npm install
 
 Ejecución
 
 npm start
+
+En el llegado caso de que le de error, o no logre ejecutarlo corrextamente a causa de que se cree una carpeta demas luego de haberse clonado el repositorio, entonces puede probar con:
+
+cd 53446-recuperatorio-main
+
+Luego, seguir con npm start
 
 El programa lee el archivo input.txt y procesa su contenido.
 
